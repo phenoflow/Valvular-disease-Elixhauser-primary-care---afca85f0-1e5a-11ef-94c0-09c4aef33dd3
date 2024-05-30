@@ -1,0 +1,99 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/valvular-disease-elixhauser-primary-care-specified---primary.py
+inputModule3:
+  class: File
+  path: python/valvular-disease-elixhauser-primary-care-sovalve---primary.py
+inputModule4:
+  class: File
+  path: python/valvuloplasty-valvular-disease-elixhauser-primary-care---primary.py
+inputModule5:
+  class: File
+  path: python/subaortic-valvular-disease-elixhauser-primary-care---primary.py
+inputModule6:
+  class: File
+  path: python/valvular-disease-elixhauser-primary-care-insufficiency---primary.py
+inputModule7:
+  class: File
+  path: python/valvular-disease-elixhauser-primary-care-incompetence---primary.py
+inputModule8:
+  class: File
+  path: python/annuloplasty-valvular-disease-elixhauser-primary-care---primary.py
+inputModule9:
+  class: File
+  path: python/valvular-disease-elixhauser-primary-care-regurgitation---primary.py
+inputModule10:
+  class: File
+  path: python/congenital-valvular-disease-elixhauser-primary-care---primary.py
+inputModule11:
+  class: File
+  path: python/valvular-disease-elixhauser-primary-care-repair---primary.py
+inputModule12:
+  class: File
+  path: python/nonrheumatic-valvular-disease-elixhauser-primary-care---primary.py
+inputModule13:
+  class: File
+  path: python/valvular-disease-elixhauser-primary-care-valvectomy---primary.py
+inputModule14:
+  class: File
+  path: python/systolic-valvular-disease-elixhauser-primary-care---primary.py
+inputModule15:
+  class: File
+  path: python/diastolic-valvular-disease-elixhauser-primary-care---primary.py
+inputModule16:
+  class: File
+  path: python/valvular-disease-elixhauser-primary-care-closed---primary.py
+inputModule17:
+  class: File
+  path: python/valvular-disease-elixhauser-primary-care-syphilis---primary.py
+inputModule18:
+  class: File
+  path: python/valvular-disease-elixhauser-primary-care-atresia---primary.py
+inputModule19:
+  class: File
+  path: python/valvular-disease-elixhauser-primary-care-stenosis---primary.py
+inputModule20:
+  class: File
+  path: python/valvular-disease-elixhauser-primary-care-heart---primary.py
+inputModule21:
+  class: File
+  path: python/truncal-valvular-disease-elixhauser-primary-care---primary.py
+inputModule22:
+  class: File
+  path: python/valvular-disease-elixhauser-primary-care-creation---primary.py
+inputModule23:
+  class: File
+  path: python/valvular-disease-elixhauser-primary-care-valvotomy---primary.py
+inputModule24:
+  class: File
+  path: python/valvular-disease-elixhauser-primary-care-bjorkshiley---primary.py
+inputModule25:
+  class: File
+  path: python/tetralogy-valvular-disease-elixhauser-primary-care---primary.py
+inputModule26:
+  class: File
+  path: python/syphilitic-valvular-disease-elixhauser-primary-care---primary.py
+inputModule27:
+  class: File
+  path: python/mitral-valvular-disease-elixhauser-primary-care---primary.py
+inputModule28:
+  class: File
+  path: python/valvular-disease-elixhauser-primary-care-murmur---primary.py
+inputModule29:
+  class: File
+  path: python/artificial-valvular-disease-elixhauser-primary-care---primary.py
+inputModule30:
+  class: File
+  path: python/percutaneous-valvular-disease-elixhauser-primary-care---primary.py
+inputModule31:
+  class: File
+  path: python/valvular-disease-elixhauser-primary-care-cardiac---primary.py
+inputModule32:
+  class: File
+  path: python/valvular-disease-elixhauser-primary-care-operation---primary.py
+inputModule33:
+  class: File
+  path: python/output-cases.py
